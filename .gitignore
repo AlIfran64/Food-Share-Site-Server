@@ -1,0 +1,4 @@
+node_modules
+.env
+.vercel
+sharebite-40455-firebase-adminsdk.json
